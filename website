@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr M.S.V.K.V. PRASAD - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        section {
+            background: white;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        .contact {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dr M.S.V.K.V. PRASAD</h1>
+    </header>
+    <div class="container">
+        <section>
+            <h2>About Me</h2>
+            <p>Educational Qualifications:</p>
+            <ul>
+                <li>Ph.D. in Environment</li>
+                <li>M.Tech. in Remote Sensing</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Teaching and Expertise</h2>
+            <ul>
+                <li>Building material & construction</li>
+                <li>Environmental Impact Management & Assessment</li>
+                <li>Disaster management</li>
+                <li>Air pollution & control</li>
+                <li>Watershed management</li>
+                <li>Engineering geology</li>
+                <li>Universal Human values</li>
+                <li>Introduction to Watershed Management</li>
+            </ul>
+        </section>
+        <section>
+            <h2>My Resources</h2>
+            <p>Details about my resources will be available soon.</p>
+        </section>
+        <section>
+            <h2>Research</h2>
+            <p>Information about my research work will be available soon.</p>
+        </section>
+        <section>
+            <h2>Seminars, FDP & Other</h2>
+            <p>Details about seminars, Faculty Development Programs (FDP), and other activities will be available soon.</p>
+        </section>
+        <section>
+            <h2>Awards and Recognition</h2>
+            <p>Information about my awards and recognition will be available soon.</p>
+        </section>
+        <section>
+            <h2>ORCID</h2>
+            <p><a href="https://orcid.org/0000-0003-0361-5775" target="_blank">https://orcid.org/0000-0003-0361-5775</a></p>
+        </section>
+        <section class="contact">
+            <h2>Contact</h2>
+            <p>Feel free to reach out via <a href="mailto:your-email@example.com">email</a>.</p>
+        </section>
+    </div>
+</body>
+</html>
